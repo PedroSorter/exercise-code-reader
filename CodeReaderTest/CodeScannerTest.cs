@@ -18,6 +18,8 @@ namespace CodeReaderTest
         [InlineData("666666666")]
         [InlineData("777777777")]
         [InlineData("1234567")]
+        [InlineData("888888888")]
+        [InlineData("999999999")]
         public void ShouldReadAllCodesFromFolder(string expected)
         {
             var scanner = new CodeScanner();
