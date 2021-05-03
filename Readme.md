@@ -38,3 +38,5 @@ As part of this goal, you have to add tests to confirm your changes are working 
 
 ### Goal 3
 Save all your changes from previous goals and create a pull request in the repository by sending all your changes.
+
+Enjoy!
